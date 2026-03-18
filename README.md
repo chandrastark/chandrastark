@@ -77,7 +77,7 @@ My work focuses on building rigorous, reproducible data science pipelines: from 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vybhav72954&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chandrastark&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
